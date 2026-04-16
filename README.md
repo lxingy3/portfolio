@@ -1,3 +1,5 @@
+![Portfolio Pipeline](https://github.com/lxingy3/portfolio/actions/workflows/pipeline.yml/badge.svg)
+
 # Portfolio Template
 
 A starter repo for building and validating a personal portfolio webpage.
